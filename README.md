@@ -1,3 +1,3 @@
-#CHC Project from an online tutorial
+CHC Project from an online tutorial
 
 src: Coding With Sara
